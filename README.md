@@ -1,3 +1,3 @@
 # xgboost-implementation
 
-Practical XGBoost implementation highlighting boosting algorithms, feature importance analysis, and hyperparameter optimization.
+Practical implementation of XGBoost showcasing boosting concepts, feature importance, and model optimization techniques.
